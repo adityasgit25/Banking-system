@@ -10,7 +10,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Banking System",
   description: "A comprehensive banking system for managing banks, branches, customers, accounts, and transactions",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
